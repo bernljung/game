@@ -20,6 +20,8 @@ fun App() {
             }
         }
     }
+
+    GameComponent()
 }
 
 fun main() = application {
